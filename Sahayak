@@ -1,0 +1,46 @@
+Sahayak - AI/ML-driven Chatbot for CPGRAMS Grievance Filing
+
+1.	Data Collection and Analysis:
+•	CPGRAMS Data: Data from CPGRAMS containing frequently asked questions (FAQs), common issues faced during grievance filing, and successful grievance formats are used
+•	Citizen Surveys: Conduct surveys to understand citizen pain points regarding CPGRAMS and their preferred communication methods (chatbot vs. other channels).
+•	Ministry Data: Collaborate with the ministry to collect anonymized data on frequently asked questions (FAQs) and common issues faced during CPGRAMS grievance filing. This data could include transcripts from call centers, email queries, and social media interactions.
+
+2.	Chatbot Development:
+o	Intent Recognition: Classify user queries based on their intent (e.g., eligibility for filing a grievance, required documents, tracking grievance status).
+o	Entity Recognition: Identify key entities within the user's query (e.g., department, grievance category).
+o	Multi-turn Dialogue: Allow for back-and-forth conversation to clarify user needs and provide step-by-step guidance.
+
+3.	Integration and Promotion:
+o	Integrate the chatbot seamlessly with the CPGRAMS portal and mobile app for easy access.
+o	Promote the chatbot through various channels like ministry websites, social media, and public service announcements.
+o	Give access to
+	Pre-filling forms with relevant ministry information based on the user's query.
+	Tracking links for submitted grievances.
+
+4.	Machine Learning Integration (Optional):
+o	Implement a recommendation system to suggest relevant grievance categories based on user descriptions.
+o	Train a sentiment analysis model to identify frustrated users and offer them escalation options.
+
+5.	Deployment and Maintenance: (Future work)
+•	Pilot Testing: Launch the chatbot with a limited audience to gather feedback, identify areas for improvement and ensuring accessibility across devices.
+•	Iterative Training: Continuously train and update the chatbot based on user interactions and feedback. Regularly update the chatbot with new information and FAQs based on user interactions.
+Model Architecture diagram
+ 
+
+Additional Considerations:
+•	Multilingual Support: If necessary, consider developing the chatbot with multilingual capabilities to cater to a wider audience.
+•	Accessibility: Ensure the chatbot is accessible to users with disabilities (e.g., screen reader compatibility) following WCAG (Web Content Accessibility Guidelines).
+•	Security: Implement robust security measures to protect user data and privacy.
+•	Feedback Mechanism: Integrate a feedback mechanism within the chatbot to encourage user input and improve future iterations.
+
+By following these steps and continuously refining your chatbot, you can create a valuable tool that empowers citizens and streamlines the CPGRAMS grievance filing process.
+
+Submitted to: 
+Online Hackathon on “Data driven Innovation for Citizen Grievance Redressal -2024
+
+Submitted by: Mepco Schlenk Engineering College
+Team members:
+1.	Jeeva Joslin Y
+2.	Sanjay M
+Mentor:
+Dr. T. Manonmani, Sr.AP/CSE, Mepco Schlenk Engineering College, Sivakasi, Tamilnadu.
